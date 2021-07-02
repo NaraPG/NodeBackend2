@@ -41,16 +41,6 @@
 
 <img src="https://user-images.githubusercontent.com/79294934/124240522-6f506000-dae0-11eb-93c3-22da37ff423d.png"></img>
 
-## MongoDB Atlas
-> 1- Create mongo database: I used the [mongodb altas](https://www.mongodb.com/cloud/atlas) platform for creating and managing one.Later you will need to create a user/password in order to connect the server with the DB.
-> 
-> 2- Create `.env` in the root path `/` file and your variables
-
-```
-DB_NAME=core-xyz.gcp.mongodb.net
-DB_USER=db_user_value
-DB_PASSWORD=db_password_value
-```
 
 ## Dependencies
 > - Install [VS Code](https://code.visualstudio.com/download)
@@ -68,10 +58,18 @@ DB_PASSWORD=db_password_value
 ## Run Code
 > - Use `npm i` to install the project dependencies
 > - For Windows use the command `cd [path]` and `npx nodemon [script]` to run the project automatically
+> - ## MongoDB Atlas
+> 1- Create mongo database: I used the [mongodb altas](https://www.mongodb.com/cloud/atlas) platform for creating and managing one.Later you will need to create a user/password in order to connect the server with the DB.
+> 
+> 2- Create `.env` in the root path `/` file and your variables
+
+```
+DB_NAME=core-xyz.gcp.mongodb.net
+DB_USER=db_user_value
+DB_PASSWORD=db_password_value
+```
 
 ## Technologies
 > - JavaScript
-> - CSS
-> - HTML
 
 _Created by Nara Peña Gámez._
