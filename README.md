@@ -58,7 +58,7 @@
 ## Run Code
 > - Use `npm i` to install the project dependencies
 > - For Windows use the command `cd [path]` and `npx nodemon [script]` to run the project automatically
-> - ## MongoDB Atlas
+> - MongoDB Atlas
 > 1- Create mongo database: I used the [mongodb altas](https://www.mongodb.com/cloud/atlas) platform for creating and managing one.Later you will need to create a user/password in order to connect the server with the DB.
 > 
 > 2- Create `.env` in the root path `/` file and your variables
