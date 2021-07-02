@@ -1,7 +1,7 @@
 ## Backend Node.js
 
 ## This repository
-> In this course we learned how to make an API with Node.js, to serve static files, give them security and more.
+> The project of this course manage the platzi data. We create an API REST to consult and modify data system, displaying data in cloud services.
 
 ## Introduction
 #### What is Node.js?
